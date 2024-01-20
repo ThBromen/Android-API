@@ -30,14 +30,14 @@ const options = {
   swaggerDefinition: {
     openapi: "3.0.0",
     info: {
-      title: "Smart-Farming API ",
+      title: "Android API ",
       version: "1.0.0",
       description:
-        "This is Smart-Farming API Documentation ",
+        "This is Android API Documentation ",
     },
     servers: [
       {
-        url: "https://smart-farming-api.onrender.com",
+        url: "https://android-api-7sy3.onrender.com",
       },
     ],
   },
